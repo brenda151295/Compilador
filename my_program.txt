@@ -1,0 +1,11 @@
+int main()
+{
+	string c,a,b;
+	int f=0;
+    a="hhh";
+	c=a;
+	b=c;
+	f=c;
+
+	return 3.5;
+}
